@@ -1,0 +1,6 @@
+c:\users\macmillan\documents\visual studio 2012\Projects\2D Binary Tree Bin-Pack\2D Binary Tree Bin-Pack\bin\Debug\2D Binary Tree Bin-Pack.exe.config
+c:\users\macmillan\documents\visual studio 2012\Projects\2D Binary Tree Bin-Pack\2D Binary Tree Bin-Pack\bin\Debug\2D Binary Tree Bin-Pack.exe
+c:\users\macmillan\documents\visual studio 2012\Projects\2D Binary Tree Bin-Pack\2D Binary Tree Bin-Pack\bin\Debug\2D Binary Tree Bin-Pack.pdb
+c:\users\macmillan\documents\visual studio 2012\Projects\2D Binary Tree Bin-Pack\2D Binary Tree Bin-Pack\obj\Debug\2D Binary Tree Bin-Pack.exe
+c:\users\macmillan\documents\visual studio 2012\Projects\2D Binary Tree Bin-Pack\2D Binary Tree Bin-Pack\obj\Debug\2D Binary Tree Bin-Pack.pdb
+c:\users\macmillan\documents\visual studio 2012\Projects\2D Binary Tree Bin-Pack\2D Binary Tree Bin-Pack\obj\Debug\2D Binary Tree Bin-Pack.csprojResolveAssemblyReference.cache
