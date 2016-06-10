@@ -1,4 +1,4 @@
-# 2D-Bin-Pack-Binary-Search-
+# 2D-Bin-Pack-Binary-Search
 Two-Dimensional Bin Packing using Binary Search Tree
 
 This is a .Net implementation of Jakes Gordon Binary Tree Algorithm for 2D Bin Packing
