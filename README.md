@@ -7,4 +7,8 @@ https://github.com/jakesgordon/bin-packing/
 Usage :
 
 To run this code, open it in VS 2012 or higher versions of Visual Studio.
-Just run the application and enjoy.
+Just run the application and enjoy!
+
+Future Work: 
+Packing Blocks in a Glowing Rectangle 
+    
